@@ -1,20 +1,10 @@
-Retrieval-Augmented Generation (RAG) with Knowledge Graph QA
-Overview
-This component integrates RAG-based document retrieval with Knowledge Graph-powered QA, ensuring contextually relevant responses from large datasets.
+## Retrieval-Augmented Generation | Knowledge Graph QA, RAG
 
-Key Features
-✅ Utilizes LangChain & FAISS for vector search
-✅ Leverages Cohere APIs for document retrieval
-✅ Neo4j-based Knowledge Graph for structured insights
-✅ Mixtral API for generative responses
 
-Technologies Used
-LangChain
+### Key Features
+- **Retrieval-Augmented Generation (RAG) System**: Utilized **LangChain, Cohere APIs, and FAISS vector search** for efficient document retrieval, ensuring contextually relevant responses.
+- **Knowledge Graph Powered Question Answering**: Implemented **Neo4j database, LangChain, and Mixtral APIs** to extract insights from unstructured data.
 
-FAISS (Facebook AI Similarity Search)
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Neo4j
-
-Cohere API
-
-Mixtral API
