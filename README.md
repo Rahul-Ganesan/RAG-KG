@@ -1,7 +1,5 @@
 ## 📌 Retrieval-Augmented Generation (RAG) & Knowledge Graph QA  
 
-📅 **Duration:** August 2024 - September 2024  
-
 ### 🔹 Overview  
 This project explores **Retrieval-Augmented Generation (RAG)** and **Knowledge Graph-based Question Answering (QA)** to improve the accuracy and relevance of responses from large datasets. The system integrates vector-based retrieval and knowledge graphs to enhance contextual understanding and information extraction.  
 
